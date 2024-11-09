@@ -37,7 +37,10 @@ p {
 form {
   margin-top: 50px;
 }
-
+.d-block .w-100{
+  width: 200px;
+  height: 200px;
+}
 .feedback-input {
   color: black;
   font-weight: 500;
